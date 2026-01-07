@@ -1,0 +1,6 @@
+Ticker,Mentions,Avg Sentiment Score,Dominant Sentiment
+ALL,24,0.983,negative
+AMZN,2,0.994,negative
+LH,1,1.0,negative
+CRWD,1,0.998,neutral
+NUE,1,1.0,negative
